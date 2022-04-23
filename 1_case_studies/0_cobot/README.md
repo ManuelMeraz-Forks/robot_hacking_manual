@@ -2,7 +2,7 @@
 
 ![Universal Robots UR3 CB series collaborative arm](images/2020/ur3.png)
 
-[Universal Robots](https://www.universal-robots.com), a division of Teradyne since 2015, is knowingly ignoring cyber security across their tenths of thousands of robots sold.
+[Universal Robots](https://www.universal-robots.com), a division of Teradyne since 2015, is knowingly ignoring cyber security across their tens of thousands of robots sold.
 
 In 2017, IOActive, a world-leader firm in cybersecurity services opened a report [^21] where among others, described several flaws found in Universal Robots collaborative robots. These included: [RVD#6: UR3, UR5, UR10 Stack-based buffer overflow](https://github.com/aliasrobotics/RVD/issues/6), [RVD#15: Insecure transport in Universal Robots's robot-to-robot communications](https://github.com/aliasrobotics/RVD/issues/15), [RVD#34: Universal Robots Controller supports wireless mouse/keyboards on their USB interface](https://github.com/aliasrobotics/RVD/issues/34), [RVD#672: CB3.1 3.4.5-100 hard-coded public credentials for controller](https://github.com/aliasrobotics/RVD/issues/672), [RVD#673: CB3.1 3.4.5-100 listen and execution of arbitrary URScript code](https://github.com/aliasrobotics/RVD/issues/673).
 
