@@ -165,7 +165,7 @@ To some, the phenomenon referred to as `IoT` is in large part about the physical
 ![Comparison with IoT as the intersection](https://cybersecurityrobotics.net/content/images/2020/06/tech_comparison_IoT_small.png)
 
 
-What about robotics then? How does the security in robotics compare to the one in `IoT` or `IT`? Arguably, robotic systems are significantly more complex than the corresponding ones in `IT`, `OT` or even `IoT` setups. Shouldn't security be treated differently then as well? I definitely believe so and while much can be learned from other technologies, robotics deserves its own security treatment. Specially because I strongly believe that:
+What about robotics then? How does the security in robotics compare to the one in `IoT` or `IT`? Arguably, robotic systems are significantly more complex than the corresponding ones in `IT`, `OT` or even `IoT` setups. Shouldn't security be treated differently then as well? I definitely believe so and while much can be learned from other technologies, robotics deserves its own security treatment. Especially because I strongly believe that:
 
 > cyber security in robotics will be more important than in any other technology due to its safety implications, including IT, OT or even IoT.
 
