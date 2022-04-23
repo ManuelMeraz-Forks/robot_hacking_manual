@@ -178,7 +178,7 @@ Of course, I'm a roboticist so expect a decent amount of bias on this claim. Let
 | **Life cycle** | 3-5 years | 10-20 years | 5-10 years | 10+ years |
 | **Awareness** | Decent |  Poor | Poor | None |
 | **Patch management** | Often | Rare, requires approval from plant manufacturers | Rare, often requires permission (and/or action) from end-user | Very rare, production implications, complex set ups|
-| **Change Management** | Regular and scheduled | Rare | Rare | Very rare, often specialized technitians |
+| **Change Management** | Regular and scheduled | Rare | Rare | Very rare, often specialized technicians |
 | **Evaluation of log files** | Established practice | Unusual practice | Unusual practice | Non-established practice |
 | **Time dependency** | Delays Accepted | Critical | Some delays accepted (depends of domain of application, e.g. IIoT might be more sensitive) |  Critical, both inter and intra robot communications |
 | **Availability** | Not always available, failures accepted | 24*7 | Some failures accepted (again, domain specific) | 24*7 available |
