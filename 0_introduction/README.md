@@ -143,7 +143,7 @@ During the past two years, while reading, learning, attending to security confer
 
 > Robotics is the art of system integration. Robots are systems of systems, devices that operate autonomously.
 
-It's important to highlight that all the previous definitions refer to technologies. Some are domain specific (e.g. OT) while others are agnostic to the domain (e.g. robotics) but **each one of them are means that serve the user for and end**.
+It's important to highlight that all the previous definitions refer to technologies. Some are domain specific (e.g. OT) while others are agnostic to the domain (e.g. robotics) but **each one of them are means that serve the user for an end**.
 
 
 ### Comparing the security across these technologies
